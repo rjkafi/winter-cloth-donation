@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title": "Warm Clothes for Street Children",
+      "image": "https://i.ibb.co.com/GQr6RF4/1.jpg",
+      "description": "Distributing warm clothes to children living on the streets to protect them from the cold.",
+      "status": "Ongoing",
+      "contactInfo": "+880123456789",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Blanket Distribution in Hill Tracts",
+      "image": "https://i.ibb.co.com/F3JJ7yv/2.jpg",
+      "description": "Providing blankets and warm clothing to families in the Chittagong Hill Tracts.",
+      "status": "Upcoming",
+      "contactInfo": "+880987654321",
+      "division": "Chittagong"
+    },
+    {
+      "id": 3,
+      "title": "Winter Relief for Elderly in Villages",
+      "image": "https://i.ibb.co.com/s2cdkdg/3.jpg",
+      "description": "Supplying warm clothing and blankets to elderly people in remote villages.",
+      "status": "Ongoing",
+      "contactInfo": "+8801122334455",
+      "division": "Sylhet"
+    },
+    {
+      "id": 4,
+      "title": "Coat Drive for Underprivileged Kids",
+      "image": "https://i.ibb.co.com/DCjz4BN/4.jpg",
+      "description": "Collecting and distributing coats to underprivileged children during winter.",
+      "status": "Completed",
+      "contactInfo": "+8809988776655",
+      "division": "Barisal"
+    },
+    {
+      "id": 5,
+      "title": "Jacket Donation for Rural Communities",
+      "image": "https://i.ibb.co.com/qkgWGNL/5.jpg",
+      "description": "Distributing jackets to families in rural areas facing harsh winter conditions.",
+      "status": "Ongoing",
+      "contactInfo": "+8807766554433",
+      "division": "Khulna"
+    },
+    {
+      "id": 6,
+      "title": "Warm Clothes for Slum Dwellers",
+      "image": "https://i.ibb.co.com/LZT4K2C/6.jpg",
+      "description": "Providing warm clothes to slum dwellers to help them survive the cold season.",
+      "status": "Upcoming",
+      "contactInfo": "+8805566778899",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 7,
+      "title": "Sweater Donation for School Children",
+      "image": "https://i.ibb.co.com/Vx8YgPx/7.jpg",
+      "description": "Distributing sweaters to school children in low-income areas.",
+      "status": "Ongoing",
+      "contactInfo": "+8804433221100",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 8,
+      "title": "Warm Clothing for Homeless People",
+      "image": "https://i.ibb.co.com/HDvTQgW/8.jpg",
+      "description": "Providing warm clothes and blankets to homeless individuals during the winter.",
+      "status": "Completed",
+      "contactInfo": "+8802233445566",
+      "division": "Rangpur"
+    },
+    {
+      "id": 9,
+      "title": "Winter Aid for Orphanages",
+      "image": "https://i.ibb.co.com/hLk1qCx/9.jpg",
+      "description": "Donating winter clothes and blankets to orphanages to keep the children warm.",
+      "status": "Ongoing",
+      "contactInfo": "+8803344556677",
+      "division": "Dhaka"
+    }
+  ]
+  
